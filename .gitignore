@@ -1,0 +1,15 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+data/
+*.log
+.DS_Store
+.idea/
+.vscode/
+keypair.json
+*.key
+private_key*
